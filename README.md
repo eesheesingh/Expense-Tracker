@@ -1,1 +1,1 @@
-# Expense-Tracker
+# Wallet-Buddy
